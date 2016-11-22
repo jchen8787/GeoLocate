@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoLocate</string>
+    <string name="welcomeMsg">Find your Bluetooth Module</string>
+    <string name="getLastLoc">Display Last Known Location</string>
+    <string name="scan">Scan for Module</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="test">testing button</string>
+    <string name="testMsg">this is a test</string>
+</resources>
