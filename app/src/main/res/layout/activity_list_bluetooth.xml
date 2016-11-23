@@ -10,4 +10,12 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.csm117.geolocate.listBluetooth">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="30dp"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="Bluetooth Module detected near (34.069097, -118.442671)!\n\n Location uploaded to server" />
+
 </RelativeLayout>

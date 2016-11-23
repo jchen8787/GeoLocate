@@ -18,7 +18,7 @@ public class listBluetooth extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list_bluetooth);
-        Toast.makeText(this, R.string.testMsg, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Scanning...", Toast.LENGTH_SHORT).show();
 
         // Initializes Bluetooth adapter.
         final BluetoothManager bluetoothManager =

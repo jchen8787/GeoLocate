@@ -22,8 +22,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void listBluetooth(View view) {
-        Toast.makeText(this, "not yet implemented", Toast.LENGTH_SHORT).show();
-
         Intent intent = new Intent(this, listBluetooth.class);
         startActivity(intent);
     }
